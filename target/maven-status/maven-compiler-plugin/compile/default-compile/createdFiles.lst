@@ -1,7 +1,4 @@
-com/scratchgame/App.class
-com/scratchgame/GameConfig.class
-com/scratchgame/WinCombinations.class
-com/scratchgame/StandardSymbol.class
-com/scratchgame/Probabilities.class
-com/scratchgame/WinCombination.class
-com/scratchgame/Symbol.class
+com/slotmachine/ScratchGame.class
+com/slotmachine/Symbol.class
+com/slotmachine/Main.class
+com/slotmachine/ConfigLoader.class
